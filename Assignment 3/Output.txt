@@ -1,0 +1,24 @@
+Epsilon:0.3779984260851556
+K:10
+Accuracy of Outlier Detection:100
+
+Epsilon:0.7559968521703112
+K:20
+Accuracy of Outlier Detection:100
+
+Epsilon:1.1339952782554668
+K:30
+Accuracy of Outlier Detection:100
+
+Epsilon:0.1889992130425778
+K:5
+Accuracy of Outlier Detection:100
+
+Epsilon:0.3023987408681245
+K:8
+Accuracy of Outlier Detection:100
+
+Epsilon:4.5
+K:70
+Accuracy of Outlier Detection:100
+
